@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_112 (Oracle Corporation)
+
+Name: about.html
+SHA-256-Digest: kcYBPw9/PDwhte8zU9xb/ckbdv9yweFHxXC1oy2kLIU=
+
+Name: loc.properties
+SHA-256-Digest: 9NwbXs4JKdF7JCRDFlXdllwGeSq6gD7anWRnZlFkjfs=
+
+Name: feature.xml
+SHA-256-Digest: jdoapExSw0I9j4KtzCkuS85NEIaQia9us9CV5432ycI=
+
+Name: ThirdPartyNotices.html
+SHA-256-Digest: miVl111YqQjyA7c2zIwr5mvp2+CTfOqlZJ5cTaxukgc=
+
+Name: feature.properties
+SHA-256-Digest: C9k0u3VOrOPZq15G3lJT+I6ScDvgx3txasp2J3bGY9E=
+
+Name: license.html
+SHA-256-Digest: GeHGPIPjAtMT6CPo+lXaHrMorgaQDb0CHr+CGd45IXQ=
+

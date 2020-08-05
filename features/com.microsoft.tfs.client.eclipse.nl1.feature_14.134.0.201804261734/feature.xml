@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.microsoft.tfs.client.eclipse.nl1.feature"
+      label="Team Explorer Everywhere Language Pack"
+      version="14.134.0.201804261734"
+      provider-name="%Feature-Vendor">
+
+   <description>Adds Chinese, French, German, Japanese, and Portuguese language support to Team Explorer Everywhere.</description>
+
+   <copyright>
+      %Feature-Copyright
+   </copyright>
+
+   <license url="%Feature-License-Url">
+      %Feature-License-Text
+   </license>
+   
+   <plugin
+         id="com.microsoft.tfs.checkinpolicies.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.checkinpolicies.build.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.checkinpolicies.checkforcomments.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.checkinpolicies.forbiddenpatterns.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.checkinpolicies.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.checkinpolicies.workitempolicy.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.checkinpolicies.workitemquerypolicy.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.client.common.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.client.common.pid.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.client.common.ui.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.client.common.ui.teambuild.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.client.common.ui.teambuild.egit.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261733"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.client.common.ui.vcexplorer.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.client.eclipse.help.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261733"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.client.eclipse.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261733"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.client.eclipse.ui.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261733"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.client.eclipse.ui.egit.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261733"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.core.httpclient.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.core.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.core.ws.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.core.ws.runtime.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.jni.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.logging.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.microsoft.tfs.util.nl1"
+         download-size="0"
+         install-size="0"
+         version="14.134.0.201804261732"
+         fragment="true"
+         unpack="false"/>
+
+</feature>
